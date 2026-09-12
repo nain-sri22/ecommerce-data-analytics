@@ -102,3 +102,17 @@ ecommerce-data-analytics/
 **Naincy Srivastava**
 
 B.Tech Computer Science Engineering Student
+
+## 🖼️ Dashboard Screenshots
+
+### Executive Overview
+![Executive Overview](Screenshot%202026-09-13%20005323.png)
+
+### Product & Category Analysis
+![Product & Category Analysis](Screenshot%202026-09-13%20005350.png)
+
+### Customer & Order Analysis
+![Customer & Order Analysis](Screenshot%202026-09-13%20005418.png)
+
+### Sales & Financial Analysis
+![Sales & Financial Analysis](Screenshot%202026-09-13%20010039.png)
