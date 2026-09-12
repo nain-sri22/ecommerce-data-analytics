@@ -82,8 +82,7 @@ ecommerce-data-analytics/
 ├── README.md
 ├── SQL/
 │   └── ecommerce_analysis.sql
-├── PowerBI/
-│   └── ecommerce_dashboard.pbix
+|── Ecommerce_Analytics_Dashboard.pbix
 └── Screenshots/
     └── Power BI dashboard screenshots
 ## 💡 Skills Demonstrated
