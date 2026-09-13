@@ -73,6 +73,13 @@ SQL and Power BI were used to analyze:
 - Product ratings
 - Low-stock products
 - Monthly revenue and order trends
+- Data Cleaning
+- Data Modeling
+- DAX
+- Power BI
+- Data Visualization
+- KPI Development
+- Business Analysis
 
 ## 📂 Project Structure
 
@@ -85,11 +92,12 @@ ecommerce-data-analytics/
 │   └── ecommerce_analysis.sql
 │
 ├── Ecommerce_Analytics_Dashboard.pbix
-│
 ├── Executive_Overview.png
 ├── Product_Category_Analysis.png
 ├── Customer_Order_Analysis.png
 └── Sales_Financial_Analysis.png
+```
+
 ## 💡 Skills Demonstrated
 
 - SQL
@@ -125,5 +133,4 @@ B.Tech Computer Science Engineering Student
 ### Sales & Financial Analysis
 
 ![Sales & Financial Analysis](Sales_Financial_Analysis.png)
-
 
