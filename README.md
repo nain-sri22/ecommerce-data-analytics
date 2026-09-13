@@ -102,15 +102,28 @@ ecommerce-data-analytics/
 - KPI Development
 - Business Analysis
 
-## 👩‍💻 Author
+## 🔒 Author
 
 **Naincy Srivastava**
 
 B.Tech Computer Science Engineering Student
+
+## 🖼️ Dashboard Screenshots
+
+### Executive Overview
+
 ![Executive Overview](Executive_Overview.png)
+
+### Product & Category Analysis
 
 ![Product & Category Analysis](Product_Category_Analysis.png)
 
+### Customer & Order Analysis
+
 ![Customer & Order Analysis](Customer_Order_Analysis.png)
 
+### Sales & Financial Analysis
+
 ![Sales & Financial Analysis](Sales_Financial_Analysis.png)
+
+
