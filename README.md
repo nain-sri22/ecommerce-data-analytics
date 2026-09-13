@@ -80,11 +80,16 @@ SQL and Power BI were used to analyze:
 ecommerce-data-analytics/
 │
 ├── README.md
+│
 ├── SQL/
 │   └── ecommerce_analysis.sql
-|── Ecommerce_Analytics_Dashboard.pbix
-└── Screenshots/
-    └── Power BI dashboard screenshots
+│
+├── Ecommerce_Analytics_Dashboard.pbix
+│
+├── Executive_Overview.png
+├── Product_Category_Analysis.png
+├── Customer_Order_Analysis.png
+└── Sales_Financial_Analysis.png
 ## 💡 Skills Demonstrated
 
 - SQL
